@@ -51,7 +51,7 @@
 
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Helvetica", sans-serif;
     background: #fafafa !important;
 }
 	
@@ -90,7 +90,7 @@ b {
 
 p {
     font-size: 14px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Helvetica", sans-serif;
 }
 
 button {
@@ -642,7 +642,7 @@ div.blog-post {
     color: #696868;
     font-weight: 300;
     letter-spacing: 0.8px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Helvetica", sans-serif;
 }
 
 
@@ -1761,7 +1761,7 @@ blockquote {
 .tooltip.top {
     margin-top: -2px;
     font-size: 14px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Helvetica", sans-serif;
 }
 
 .tooltip.bottom {
